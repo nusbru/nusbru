@@ -2,6 +2,10 @@ User-agent: *
 
 Disallow: /
 
+Disallow: /posts/olamundo/
+
+Disallow: /posts/
+
 Disallow: /categories/
 
 Disallow: /tags/hello/
@@ -9,8 +13,6 @@ Disallow: /tags/hello/
 Disallow: /categories/hello/
 
 Disallow: /posts/markdown-cheat-sheet/
-
-Disallow: /posts/
 
 Disallow: /tags/
 

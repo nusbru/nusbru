@@ -27,7 +27,12 @@
     name = "Donate"
     url = "https://ko-fi.com/nixentric"
     weight = 5
-    
+[[main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts"
+    weight = 6
+
 # Social Media Configuration
 
 [[social]]
