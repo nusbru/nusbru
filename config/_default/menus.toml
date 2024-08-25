@@ -5,12 +5,6 @@
     weight = 1
 
 [[main]]
-    identifier = "about"
-    name = "About me"
-    url = "/about"
-    weight = 2
-
-[[main]]
     identifier = "categories"
     name = "Categories"
     url = "/categories"
@@ -21,34 +15,16 @@
     name = "Tags"
     url = "/tags"
     weight = 4
-
-[[main]]
-    identifier = "donate"
-    name = "Donate"
-    url = "https://ko-fi.com/nixentric"
-    weight = 5
 [[main]]
     identifier = "posts"
     name = "Posts"
     url = "/posts"
-    weight = 6
+    weight = 2
 
 # Social Media Configuration
-
-[[social]]
-    identifier = "twitter"
-    name = "Twitter"
-    url = "#"
-    weight = 1
-
-[[social]]
-    identifier = "instagram"
-    name = "Instagram"
-    url = "#"
-    weight = 2
 
 [[social]]
     identifier = "github"
     name = "GitHub"
     url = "#"
-    weight = 3
+    weight = 1
