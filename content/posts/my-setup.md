@@ -6,10 +6,13 @@ tableOfContents: false # Enable/disable Table of Contents
 description: ""
 categories:
   - Setup
+  - Setup2
 tags:
   - Linux
   - Fedora40
   - Setup
 ---
+
+![Slimbook](/images/posts/balos-lagoon.jpg)
 
 Back some years ago, there was a trend when sombe developers has started to share their setup environemnts and configuration. And thats

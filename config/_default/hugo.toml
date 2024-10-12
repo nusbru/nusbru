@@ -1,9 +1,9 @@
-baseURL = 'http://brunosalmeida.com/'
+baseURL = 'https://nusbru.github.io/blog/'
 copyright = "{year}"
 languageCode = 'pt-BR'
 defaultContentLanguage = 'en'
 theme = 'clean-theme'
-title = 'Blog do Bruno'
+title = 'Bruno'
 enableRobotsTXT = true
 summaryLength = 15
 paginate = 5
