@@ -3,11 +3,11 @@ copyright = "{year}"
 languageCode = 'pt-BR'
 defaultContentLanguage = 'en'
 theme = 'clean-theme'
-title = 'Eu sou o Bruno'
+title = 'Blog do Bruno'
 enableRobotsTXT = true
 summaryLength = 15
 paginate = 5
-
+staticDir = ['static']
 
 [markup]
   [markup.highlight]
