@@ -1,4 +1,4 @@
-baseURL = 'https://nusbru.github.io/blog/'
+baseURL = 'https://nusbru.github.io/blog'
 copyright = "{year}"
 languageCode = 'pt-BR'
 defaultContentLanguage = 'en'
@@ -8,6 +8,8 @@ enableRobotsTXT = true
 summaryLength = 15
 paginate = 5
 staticDir = ['static']
+canonifyURLs = true 
+
 
 [markup]
   [markup.highlight]
