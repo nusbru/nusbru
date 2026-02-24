@@ -61,10 +61,6 @@
 
 ###
 
-<h3 align="left">🚀 What I'm up to</h3>
-
-###
-
 <h3 align="left">🛠 Languages & Tools</h3>
 
 ###
