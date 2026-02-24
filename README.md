@@ -1,10 +1,4 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=580&lines=Senior+.NET+Software+Engineer;Microservices+%7C+Cloud-Native+%7C+Kubernetes;Golang+Learner+%F0%9F%90%B9" alt="Typing SVG" />
-</div>
-
-###
-
-<div align="center">
   <a href="https://www.linkedin.com/in/brunosalmeida/?locale=en_US" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
