@@ -63,11 +63,6 @@
 
 <h3 align="left">🚀 What I'm up to</h3>
 
-<p align="left">
-  - 🌱 Deepening my Golang knowledge — building CLI tools and exploring Go concurrency patterns<br>
-  - ☁️ Exploring cloud-native patterns on <strong>Azure</strong> and infrastructure-as-code with <strong>Terraform</strong>
-</p>
-
 ###
 
 <h3 align="left">🛠 Languages & Tools</h3>
